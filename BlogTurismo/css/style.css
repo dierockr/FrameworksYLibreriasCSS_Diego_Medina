@@ -1,0 +1,26 @@
+
+
+/*---Fondo---*/
+.contenido-body 
+{
+	background-image: url(../img/../img/pico_bolivar_merida.JPG);
+	background-attachment: fixed;
+  	background-repeat: no-repeat;
+  	background-position: center center;
+  	background-size: cover;
+  	width: 100%;
+ 	height: 100%;
+}
+
+.autor{
+	text-align: center;
+}
+
+p {
+	text-align:left;
+}
+
+#enviar {
+	text-align: center;
+	margin-bottom: 10px;
+}

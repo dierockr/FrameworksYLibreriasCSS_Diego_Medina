@@ -1,0 +1,57 @@
+/* CSS Document */
+
+
+/*---Dispositivos Moviles---*/
+
+@media (max-width: 991px) 
+	{
+	.busqueda 
+	{
+		display: none;
+	}
+	
+	.contenido 
+	{
+		margin: 5px 10px;
+	}
+	
+	.logo-img 
+	{
+		margin: 0px 10px;
+		text-align: center;
+	}
+	
+	.redes-sociales 
+	{
+		text-align: center;
+	}
+	}
+
+/*---Desktop---*/
+@media (min-width: 991px)
+	{	
+	.redes-sociales
+	{
+		text-align: right;
+	}
+	
+	.logo-img 
+	{
+		text-align: left;
+	}
+	}
+
+
+/*--Tamaño logo Rock--*/
+.logo-img img
+{
+	height: 300px;
+}
+
+
+/*--Lupa de Formulario--*/
+.img-formulario 
+{
+	width: 50px;
+	
+}

@@ -1,0 +1,69 @@
+
+
+/*----body----*/
+
+.food-body {
+	
+	background-image: url(../img/fondo.jpg);
+	background-attachment: scroll;
+  	background-repeat: no-repeat;
+  	background-position: center center;
+  	background-size: cover;
+  	width: 100%;
+ 	height: 100%;
+}
+
+/*--contenedor--*/
+
+.contenedor {
+	
+	background-color:#02CAFD;
+	opacity: 0.85;
+}
+
+/*--header--*/
+#encabezado 
+{
+	color: white;
+	border-right: solid 9px white;
+}
+
+.nombre
+{
+	text-align: left;
+	color: #A60002;
+}
+
+.slogan 
+{
+	text-align: right;
+	color: #A60002;
+}
+
+/*----contenedor----*/
+.secciones {
+	border-top: solid 2px white;
+}
+
+/*clase de busqueda*/
+#busqueda {
+	background-color:#6BFFEE;	
+}
+
+/*----contenido----*/
+.tema
+{
+	background-color:#00AEB1;
+}
+
+.comentarios
+{
+	border-top: solid 5px #006CA9;
+}
+
+.user
+{
+	background-color: #E4EAA4;
+}
+
+/*clase de imagenes*/
